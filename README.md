@@ -40,7 +40,7 @@ I'm a former educator turned tech enthusiast, exploring the space where learning
 ## 🤝 Let’s connect
 
 - [LinkedIn](https://www.linkedin.com/in/marzie-dezfoulianrad-955a5032a)
-- [Email me](marzi.dezfoulianrad@gmail.com)
+- [Email me](mailto:marzi.dezfoulianrad@gmail.com)
 
 
 ---
