@@ -33,16 +33,15 @@ I'm a former educator turned tech enthusiast, exploring the space where learning
 
 ## 🧪 Projects in Progress
 
-- A data dashboard to visualize learning habits
-- A micro-tool to help students reflect on what they’ve learned
-- A simple science-focused chatbot built with Python
-
+- 📊 **Learning Tracker**: A Python + SQLite tool to log and visualize daily study time.
+  
 ---
 
 ## 🤝 Let’s connect
 
-- [LinkedIn]((http://linkedin.com/in/marzie-dezfoulianrad-955a5032a))
-- [Email me](marzi.dezfoulianrad@gmail.com) *(replace with your real email if you want)*
+- [LinkedIn](https://www.linkedin.com/in/marzie-dezfoulianrad-955a5032a)
+- [Email me](marzi.dezfoulianrad@gmail.com)
+
 
 ---
 
