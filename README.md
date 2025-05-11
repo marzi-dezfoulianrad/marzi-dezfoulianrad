@@ -8,7 +8,7 @@ I'm a former educator turned tech enthusiast, exploring the space where learning
 
 - Educational technology (EdTech) and how it’s reshaping classrooms
 - AI in education (AIED) — not just hype, but real, useful tools
-- Data storytelling and making complex ideas simple
+- Data science and making complex ideas simple
 - Building things that help people learn smarter
 - Exploring science through code
 
@@ -41,8 +41,8 @@ I'm a former educator turned tech enthusiast, exploring the space where learning
 
 ## 🤝 Let’s connect
 
-- [LinkedIn](https://www.linkedin.com/in/marzi-dezfoulianrad/)
-- [Email me](mailto:your.email@example.com) *(replace with your real email if you want)*
+- [LinkedIn]((http://linkedin.com/in/marzie-dezfoulianrad-955a5032a))
+- [Email me](marzi.dezfoulianrad@gmail.com) *(replace with your real email if you want)*
 
 ---
 
