@@ -33,7 +33,7 @@ I'm a former educator turned tech enthusiast, exploring the space where learning
 
 ## 🧪 Projects in Progress
 
-- 📊 **Learning Tracker**: A Python + SQLite tool to log and visualize daily study time.
+- 📊 **It will be updated soon.**
   
 ---
 
