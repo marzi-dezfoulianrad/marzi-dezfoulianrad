@@ -27,7 +27,10 @@ Scientific curiosity meets code: modeling behavior, learning processes, and syst
 
 ## Languages & Tools I Use
 
-### Programming Languages  
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="48" alt="pastel pixel animation" />
+
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
