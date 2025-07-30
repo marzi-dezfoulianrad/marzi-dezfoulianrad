@@ -1,9 +1,5 @@
 # Hi, I'm Marzi Dezfoulianrad.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" alt="Pastel Pixel Art Plant Banner">
-</p>
-
 First we should, 
 > `import curiosity; curiosity.run()`
 
@@ -11,7 +7,7 @@ I turned a career shift into a strength by diving deep into subjects I'm passion
 
 ---
 
-## What I'm into <img src="https://user-images.githubusercontent.com/73097560/115834458-db12ae80-a447-11eb-9199-55582534de9a.gif" width="50" align="right">
+## What I'm into 
 
 Data science for education — turning raw learning data into real insights
 
@@ -29,7 +25,7 @@ Scientific curiosity meets code: modeling behavior, learning processes, and syst
 
 ---
 
-## Languages & Tools I Use <img src="https://user-images.githubusercontent.com/73097560/115834462-db12ae80-a447-11eb-89d3-577709564c48.gif" width="50" align="right">
+## Languages & Tools I Use
 
 ### Programming Languages
 
@@ -55,7 +51,7 @@ Scientific curiosity meets code: modeling behavior, learning processes, and syst
 ---
 
 
-## Let’s connect <img src="https://user-images.githubusercontent.com/73097560/115834467-dbab4500-a447-11eb-9321-03d359755681.gif" width="50" align="right">
+## Let’s connect
 
 - [LinkedIn](https://www.linkedin.com/in/marzie-dezfoulianrad-955a5032a)
 - [Email me](mailto:marzi.dezfoulianrad@gmail.com)
@@ -64,4 +60,5 @@ Scientific curiosity meets code: modeling behavior, learning processes, and syst
 ---
 
 _Thanks for stopping by! I'm always up for learning something new, building cool things, or collaborating on meaningful ideas._ 🌱
+
 
