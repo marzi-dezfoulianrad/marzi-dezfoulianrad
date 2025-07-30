@@ -27,8 +27,6 @@ Scientific curiosity meets code: modeling behavior, learning processes, and syst
 
 ## Languages & Tools I Use
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="48" alt="pastel pixel animation" />
-
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
