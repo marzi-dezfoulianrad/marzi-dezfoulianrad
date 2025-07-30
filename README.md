@@ -1,16 +1,24 @@
 # 👋 Hi, I'm Marzi Dezfoulianrad
 
-I'm a former educator turned tech enthusiast, exploring the space where learning and technology meet. I'm especially curious about how tools like **AI**, **data science**, and **creative coding** can improve education and make learning more meaningful for everyone.
+I turned a career shift into a strength by diving deep into subjects I'm passionate about. I believe that with a fast-learning mindset and a strong drive to solve problems, I can turn my curiosity and hard work into useful solutions.
 
 ---
 
-## 🌱 What I'm into
+## What I'm into
 
-- Educational technology (EdTech) and how it’s reshaping classrooms
-- AI in education (AIED) — not just hype, but real, useful tools
-- Data science and making complex ideas simple
-- Building things that help people learn smarter
-- Exploring science through code
+Data science for education — turning raw learning data into real insights
+
+ML-powered EdTech — recommender systems, predictive models, adaptive learning
+
+NLP for educational content, feedback analysis, and intelligent tutoring
+
+Building modular, reproducible pipelines with Python, pandas, scikit-learn, and friends
+
+A/B testing, causal inference, and the occasional Bayesian rabbit hole
+
+Visualization as a thinking tool — matplotlib, seaborn, Plotly, and custom dashboards
+
+Scientific curiosity meets code: modeling behavior, learning processes, and systems
 
 ---
 
@@ -32,15 +40,8 @@ I'm a former educator turned tech enthusiast, exploring the space where learning
 
 ---
 
-## 📊 GitHub Stats
 
-![Marzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=marzi-dezfoulianrad&show_icons=true&theme=gruvbox)
-
----
-
-
-
-## 🤝 Let’s connect
+## Let’s connect
 
 - [LinkedIn](https://www.linkedin.com/in/marzie-dezfoulianrad-955a5032a)
 - [Email me](mailto:marzi.dezfoulianrad@gmail.com)
