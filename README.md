@@ -53,8 +53,8 @@ Scientific curiosity meets code: modeling behavior, learning processes, and syst
 
 ## Let’s connect
 
-- [LinkedIn](https://www.linkedin.com/in/marzie-dezfoulianrad-955a5032a)
-- [Email me](mailto:marzi.dezfoulianrad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzie-dezfoulianrad-955a5032a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marzi.dezfoulianrad@gmail.com)
 
 
 ---
