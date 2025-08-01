@@ -9,7 +9,7 @@ I turned a career shift into a strength by diving deep into subjects I'm passion
 
 ## What I'm into 
 
-Data science for education — turning raw learning data into real insights
+Data science  — turning data into real insights
 
 ML-powered EdTech — recommender systems, predictive models, adaptive learning
 
