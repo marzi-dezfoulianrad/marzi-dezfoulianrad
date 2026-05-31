@@ -47,14 +47,21 @@ With a fast-learning mindset and a strong drive to solve problems, I turn curios
 
 ---
 
-## GitHub Activity
+## Currently Building
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marzi-dezfoulianrad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=D1FAE5&icon_color=34D399" height="165" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=Data+Science+Projects;Machine+Learning+Pipelines;Interactive+Dashboards;Learning+by+Building" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzi-dezfoulianrad&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=D1FAE5" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-064E3B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-047857?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Dashboards-059669?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-ML%20Projects-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-NLP%20%26%20EdTech-34D399?style=for-the-badge" />
 </p>
 
 ---
